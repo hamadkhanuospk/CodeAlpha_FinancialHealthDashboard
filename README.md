@@ -1,5 +1,6 @@
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/be3b7115-b30f-4650-9e9e-a33f6e9a19b0" />
 
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1501b072-7cbc-4f26-8159-0bfee7edb1a1" />
 
 # CodeAlpha_FinancialHealthDashboard
 Interactive Financial Health Dashboard using Power BI for analyzing sales, profit, forecasting, and business performance insights.
